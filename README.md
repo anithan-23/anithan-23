@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Analyst skill
 - 💞️ I’m looking to collaborate on Data analysis projects using PowerBI, SQL, R
 - 📫 How to reach me cbmkkec@gmail.com, anitha.n@pixelexpert.net
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
